@@ -30,7 +30,7 @@ let seventh = 'it!';
 // Saat kamu mendapatkan tiap huruf, untuk membentuk setiap kata kamu tinggal menggunakan simbol + untuk membentuk kata
 //  tersebut!
 
-let word = 'wow JavaScript is so cool';
+let word = 'wow JavaScript is s o cool';
 let exampleFirstWord = word[0] + word[1] + word[2];
 
 console.log('First Word: ' + exampleFirstWord);
