@@ -49,7 +49,7 @@ function Proxytia(nama, peran){
     }
 
     if(peran === "" || peran === undefined){
-        console.log("nama wajib diisi");
+        console.log("peran wajib diisi");
         return;
     }
 
